@@ -5,6 +5,7 @@ $x = $x * 3; /*or*/ $x *= 3;
 
 $x = 'Hello';
 $x .= 'World';
+echo $x . '</br>';
 
 $x = 2;
 $y = 1;

@@ -1,0 +1,13 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "AbstractClasses\\": "public/php/OOP/AbstractClasses/classes/",
+            "Paddle\\": "public/php/OOP/EncapsulationAndAbstraction/paddle/",
+            "clases\\": "public/php/OOP/InterfacesPolymorphism/clases/",
+            "cl\\": "public/php/OOP/PaymentGateway/clases/"
+        }
+    }
+}

@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/public/php/OOP/PaymentGateway/clases" isTestSource="false" packagePrefix="cl\" />
       <sourceFolder url="file://$MODULE_DIR$/src/public/php/OOP/LateStaticBinding" isTestSource="false" packagePrefix="LateStaticBinding\" />
       <sourceFolder url="file://$MODULE_DIR$/src/public/php/OOP/MagicMethods" isTestSource="false" packagePrefix="MagicMethods\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/public/php/OOP/Traits" isTestSource="false" packagePrefix="Traits\" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/brick/math" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/ramsey/collection" />
